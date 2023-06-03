@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/xinhho/XinhHT-cloud-devops-project4.svg?style=svg&circle-token=c5cb1bbc85000cd2e5b4170da70428cc8e6b5d60)](https://github.com/xinhho/XinhHT-cloud-devops-project4)
+
 
 ## Project Overview
 
